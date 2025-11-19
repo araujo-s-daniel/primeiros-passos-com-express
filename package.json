@@ -1,0 +1,22 @@
+{
+  "name": "primeiros-passos-com-express",
+  "version": "1.0.0",
+  "description": "Exemplos do curso \"Primeiros passos com Express\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/araujo-s-daniel/primeiros-passos-com-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/araujo-s-daniel/primeiros-passos-com-express/issues"
+  },
+  "homepage": "https://github.com/araujo-s-daniel/primeiros-passos-com-express#readme",
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
